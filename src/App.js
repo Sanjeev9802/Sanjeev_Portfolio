@@ -414,16 +414,15 @@ const Portfolio = () => {
         </div>
       </section>
 
-      {/* Footer */}
       <footer style={{ padding: '3rem 1.5rem', borderTop: '1px solid #334155', textAlign: 'center' }}>
         <p style={{ color: '#94a3b8', marginBottom: '1rem' }}>
-          © 2025 Sanjeev P Patil. Crafted with React & modern web technologies.
+          2025 Sanjeev P Patil. All rights reserved.
         </p>
         <div style={styles.socialLinks}>
-          <a href="#" style={styles.socialLink}>
+          <a href="https://github.com/Sanjeev9802" style={styles.socialLink}>
             <Github size={20} />
           </a>
-          <a href="#" style={styles.socialLink}>
+          <a href="https://www.linkedin.com/in/sanjeev-p-patil-2b3206214/" style={styles.socialLink}>
             <Linkedin size={20} />
           </a>
         </div>
